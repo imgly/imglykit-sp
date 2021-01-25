@@ -10,7 +10,7 @@ let package = Package(
   targets: [
     .binaryTarget(
         name: "ImglyKit", 
-        url: "https://releases.photoeditorsdk.com/ios/ImglyKit-10.21.5.xcframework.zip", 
-        checksum: "d4fbcf8c7c616aaace0d8b66918ab14e4240f77626fbaaa1a7a8a46a4d46e0b9"),
+        url: "https://releases.photoeditorsdk.com/ios/ImglyKit-10.21.6.xcframework.zip", 
+        checksum: "1cf17377f7cdc57378560b61516a9f500e847150444c6e4bcd1e252a2a313c01"),
   ]
 )
